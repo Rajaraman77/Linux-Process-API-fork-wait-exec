@@ -49,7 +49,7 @@ int main(void)
 	return 0; }
 ```
 ## OUTPUT
-![318920722-8004cc60-fba2-48c2-aa52-399336afc091](https://github.com/user-attachments/assets/0d43b47b-eeab-4d5f-b751-a8b240a72f38)
+![image](https://github.com/user-attachments/assets/9351b447-9d6b-4edf-af2b-54243012a9a5)
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```
@@ -77,7 +77,8 @@ int main() {
 }
 ```
 ## OUTPUT
-![318923409-c185e5e4-ef17-4ee4-8eaf-026c6ee8589e](https://github.com/user-attachments/assets/10ca3308-b2f5-40e7-96a5-d99bb1adaf42)
+![image](https://github.com/user-attachments/assets/a7ac786c-37bd-4aa7-9f22-988a3dc20266)
+
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
@@ -110,7 +111,7 @@ int main() {
 }
 ```
 ## OUTPUT
-![318923985-3e3a29f8-0de1-4e2c-b178-3e8515307656](https://github.com/user-attachments/assets/9a0a0f33-dc21-427e-ba2c-1ee54061a808)
+![image](https://github.com/user-attachments/assets/0213d925-defd-4292-89bc-873d7bcca577)
 
 
 # RESULT:
